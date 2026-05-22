@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Session Summary"
+  short_description: "Archive research sessions in Obsidian."
+  default_prompt: "Use $research-session-summary to summarize this research session into an archived Obsidian Markdown note."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Coding Session Summary"
+  short_description: "Archive coding sessions in Obsidian."
+  default_prompt: "Use $coding-session-summary to summarize this coding session into an archived Obsidian Markdown note."
+policy:
+  allow_implicit_invocation: true
