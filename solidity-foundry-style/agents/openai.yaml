@@ -1,0 +1,4 @@
+interface:
+  display_name: "Solidity Foundry Style"
+  short_description: "Write Arc Solidity against protocol invariants"
+  default_prompt: "Use $solidity-foundry-style to implement this contract change while preserving the protocol invariant registry, Arc storage, replay, margin, custody, and Foundry test conventions."

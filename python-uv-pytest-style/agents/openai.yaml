@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python uv pytest Style"
+  short_description: "Write Python with uv, pytest, ruff, and typing."
+  default_prompt: "Use this skill for Python services, scripts, and tests."

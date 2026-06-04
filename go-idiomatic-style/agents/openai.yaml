@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go Idiomatic Style"
+  short_description: "Write and review idiomatic Go."
+  default_prompt: "Use this skill for Go implementation, refactoring, and tests."

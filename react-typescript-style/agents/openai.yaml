@@ -1,0 +1,4 @@
+interface:
+  display_name: "React TypeScript Style"
+  short_description: "Build React and Next.js with TypeScript conventions."
+  default_prompt: "Use this skill for React, Next.js, and TypeScript UI work."
