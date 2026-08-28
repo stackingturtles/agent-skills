@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Code Review"
+  short_description: "Run bounded, test-backed PR reviews"
+  default_prompt: "Use $pr-code-review to review this PR with a persistent findings ledger and a convergent stopping rule."
